@@ -1,6 +1,6 @@
-127ecca7fa02e84c5ab84e7d9eebb9d5 *DESCRIPTION
-83f2b4835a71170d0a00680e20113860 *NAMESPACE
-2d9afdebf5a5acb0b9426814a2cacb5e *R/sri.R
+1d05557c045a117c8555809e33730d5b *DESCRIPTION
+199067ef1e37162f09928862929e6e6a *NAMESPACE
+6cb6c450096741b09c32fcc8e1f5aaa1 *R/sri.R
 aa77947fa9c3df265e90904a35069280 *man/attach.resource.Rd
-5516de5957a339a0ffadd29cf41ab5c8 *man/bigmemory.sri-package.Rd
+fc921f51c3c0ea8d6503b8a17d050e5e *man/bigmemory.sri-package.Rd
 bb118dc756e1733f93f39bdf509e0631 *man/describe.Rd

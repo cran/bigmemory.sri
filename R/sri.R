@@ -1,4 +1,4 @@
-
+library(methods)
 setGeneric('describe', function(x) standardGeneric('describe'))
 
 setGeneric('attach.resource', 
